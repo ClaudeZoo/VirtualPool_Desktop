@@ -24,7 +24,10 @@ public:
     {
         return vmName;
     }
-
+    int getVmMemory()
+    {
+        return memory;
+    }
 
 private:
     QProcess* cmdProcess;
