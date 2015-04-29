@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/next.png</file>
+        <file>images/play.png</file>
+        <file>images/save.png</file>
+        <file>images/shutdown.png</file>
+        <file>images/network.png</file>
+        <file>images/new.png</file>
+        <file>images/right.png</file>
+        <file>images/delete.png</file>
+        <file>images/VirtualPool.png</file>
+        <file>images/login.png</file>
+    </qresource>
+</RCC>
